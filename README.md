@@ -40,6 +40,7 @@ http://localhost:3000
 Testes
 
 Para executar os testes unitários:
+
 '''sh
 yarn test  # ou npm test
 '''
@@ -48,9 +49,11 @@ yarn test  # ou npm test
 Build e Deploy
 
 Para gerar uma versão otimizada para produção:
+
 '''sh
 yarn build  # ou npm run build
 '''
+
 Os arquivos otimizados serão gerados na pasta build/.
 
 
