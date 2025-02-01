@@ -58,13 +58,13 @@ Os arquivos otimizados serão gerados na pasta build/.
 
 
 
-\###Objetivo
+###Objetivo
 
 Este projeto tem o propósito de demonstrar habilidades em desenvolvimento frontend moderno e pode ser utilizado como base para aplicações React escaláveis e bem estruturadas.
 
 
 
-\#Licença
+##Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
